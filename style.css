@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#cover{
+  text-align: center;
+  margin-top: 50px;
+}
+
+#cover button {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#quiz {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.option {
+  font-size: 24px;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 20px;
+}
